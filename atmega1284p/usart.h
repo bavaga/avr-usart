@@ -1,7 +1,15 @@
 /*
  * atmega1284p/usart.h
  *
- * USART configuration for AVR ATMEGA1284P
+ * USART configuration for
+ * 		- ATMEGA164A
+ * 		- ATMEGA164PA
+ * 		- ATMEGA324A
+ * 		- ATMEGA324PA
+ * 		- ATMEGA644A
+ * 		- ATMEGA644PA
+ * 		- ATMEGA1284
+ * 		- ATMEGA1284P
  *
  * Created on: 11.09.2014
  *     Author: Wilhelm Haas

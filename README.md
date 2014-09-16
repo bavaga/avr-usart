@@ -2,11 +2,18 @@
 
 AVR-USART is my collection of useful methods to configure USART on AVRs.
 
-Currently I implemented some methods for AVR ATMEGA1284p but will extend it
-in the future.
+Currently supported AVRs are:
+* ATMEGA164A
+* ATMEGA164PA
+* ATMEGA324A
+* ATMEGA324PA
+* ATMEGA644A
+* ATMEGA644PA
+* ATMEGA1284
+* ATMEGA1284PA
 
 ## Installation
-1. Copy `usart.h` and `usart.c` into your project source folder.
+1. Copy `usart.h` and `usart.c` to your project source folder.
 2. Add `#include "usart.h"` into your source code
 
 ## Usage Examples

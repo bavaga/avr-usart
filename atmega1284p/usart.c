@@ -1,7 +1,5 @@
 /*
- * atmega1284p/usart.c
- *
- * USART configuration for AVR ATMEGA1284P
+ * usart.c
  *
  * Created on: 11.09.2014
  *     Author: Wilhelm Haas
