@@ -39,4 +39,5 @@ Currently supported AVRs are:
     usart_enable_reading(&usart0);
     char c = usart_read(&usart0);
 
+## Note
 This is a work in progress!
